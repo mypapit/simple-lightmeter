@@ -1,0 +1,1 @@
+Simple Android Light Meter - compatible with Android 2.2 onwards
